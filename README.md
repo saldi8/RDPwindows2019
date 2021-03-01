@@ -13,7 +13,7 @@ Create Free VPS/RDP: 2CPU ; 7GB RAM with Github:
  + Value: Paste Your Authtoken -> Visit https://dashboard.ngrok.com/auth/your-authtoken
 - Step 4: Add secret
 - Step 5: Action > RDP-Windows > Run workflow
-- Setp 6: Connect To Your RPD
+- Step 6: Connect To Your RDP
  + IP: 0.tcp.ap.ngrok.io:port
  + Username: administrator
  + Password: THTH-channel
